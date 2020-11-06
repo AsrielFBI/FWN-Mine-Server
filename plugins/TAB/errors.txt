@@ -1,0 +1,797 @@
+17.07.2020 - 18:29:55 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+17.07.2020 - 18:42:10 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+17.07.2020 - 18:51:41 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+17.07.2020 - 18:53:50 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+17.07.2020 - 19:01:06 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+17.07.2020 - 20:02:24 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+17.07.2020 - 20:06:43 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+17.07.2020 - 20:20:24 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+17.07.2020 - 20:21:45 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+17.07.2020 - 20:33:05 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+17.07.2020 - 22:08:45 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+17.07.2020 - 22:32:51 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+17.07.2020 - 23:04:06 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+18.07.2020 - 11:17:25 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+18.07.2020 - 12:13:55 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+18.07.2020 - 12:31:26 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+18.07.2020 - 12:43:00 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+18.07.2020 - 20:38:40 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+18.07.2020 - 20:43:01 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+18.07.2020 - 20:49:41 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+18.07.2020 - 20:56:03 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+18.07.2020 - 20:59:19 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+18.07.2020 - 21:08:51 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+18.07.2020 - 21:17:17 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+18.07.2020 - 21:25:27 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+20.07.2020 - 11:57:55 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+20.07.2020 - 12:15:44 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+20.07.2020 - 15:07:18 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+20.07.2020 - 18:27:49 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+20.07.2020 - 18:38:17 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+20.07.2020 - 18:49:45 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+20.07.2020 - 22:20:42 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+22.07.2020 - 16:26:57 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+22.07.2020 - 16:29:15 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+23.07.2020 - 14:14:26 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+26.07.2020 - 14:31:27 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+27.07.2020 - 14:42:15 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+27.07.2020 - 16:16:48 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+27.07.2020 - 16:33:07 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+28.07.2020 - 14:23:58 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+28.07.2020 - 16:06:10 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+28.07.2020 - 16:17:01 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+28.07.2020 - 16:19:37 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+28.07.2020 - 17:30:22 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+28.07.2020 - 17:30:30 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+28.07.2020 - 18:41:29 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+28.07.2020 - 18:42:04 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+28.07.2020 - 19:34:10 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+28.07.2020 - 19:34:25 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+29.07.2020 - 12:33:07 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+29.07.2020 - 12:33:36 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+29.07.2020 - 13:31:50 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+29.07.2020 - 13:32:22 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+29.07.2020 - 16:39:11 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+29.07.2020 - 19:03:14 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+29.07.2020 - 19:03:20 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+29.07.2020 - 20:16:32 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+29.07.2020 - 20:16:32 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+30.07.2020 - 10:40:28 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+30.07.2020 - 12:02:48 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+30.07.2020 - 12:06:42 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+30.07.2020 - 12:06:53 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+30.07.2020 - 21:47:05 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+30.07.2020 - 22:54:38 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+31.07.2020 - 10:27:30 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+31.07.2020 - 20:04:17 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+01.08.2020 - 11:46:33 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+01.08.2020 - 12:17:18 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+01.08.2020 - 23:41:27 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+02.08.2020 - 10:47:27 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+02.08.2020 - 13:38:15 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+02.08.2020 - 17:49:32 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+02.08.2020 - 22:37:13 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+02.08.2020 - 22:50:18 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+03.08.2020 - 00:05:57 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+03.08.2020 - 00:11:49 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+03.08.2020 - 10:50:44 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+03.08.2020 - 11:57:12 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+03.08.2020 - 13:18:45 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+03.08.2020 - 16:36:54 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+03.08.2020 - 17:09:17 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+03.08.2020 - 19:26:32 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+03.08.2020 - 19:28:58 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+                                                                                                                                                                                                                                        03.08.2020 - 19:54:47 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+03.08.2020 - 19:56:14 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+03.08.2020 - 20:04:11 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+03.08.2020 - 20:04:50 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+03.08.2020 - 22:27:27 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+04.08.2020 - 15:28:07 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+04.08.2020 - 15:48:59 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+04.08.2020 - 15:57:30 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+04.08.2020 - 16:49:10 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+04.08.2020 - 20:52:47 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+05.08.2020 - 11:51:19 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+05.08.2020 - 13:32:29 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+05.08.2020 - 14:35:56 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+05.08.2020 - 15:18:39 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+05.08.2020 - 17:34:37 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+05.08.2020 - 17:42:40 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+05.08.2020 - 20:19:07 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+05.08.2020 - 21:17:04 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+05.08.2020 - 21:25:57 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+05.08.2020 - 21:35:22 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+05.08.2020 - 23:02:17 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+05.08.2020 - 23:07:22 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+06.08.2020 - 15:17:53 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+09.08.2020 - 13:02:43 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+09.08.2020 - 18:43:47 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+09.08.2020 - 18:45:08 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+09.08.2020 - 21:51:12 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+10.08.2020 - 00:12:34 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+10.08.2020 - 16:45:08 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+10.08.2020 - 16:51:22 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+10.08.2020 - 19:16:37 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+10.08.2020 - 19:23:04 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+11.08.2020 - 16:37:48 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+11.08.2020 - 18:59:44 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+13.08.2020 - 11:17:59 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+14.08.2020 - 16:49:30 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+14.08.2020 - 17:37:52 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+14.08.2020 - 19:23:59 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+15.08.2020 - 19:34:09 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+15.08.2020 - 19:44:59 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+15.08.2020 - 21:13:44 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+16.08.2020 - 16:31:41 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+16.08.2020 - 17:10:15 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+16.08.2020 - 22:20:41 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+17.08.2020 - 01:32:20 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+17.08.2020 - 15:07:06 - [TAB v2.8.2] Failed to disable
+17.08.2020 - 15:07:06 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+17.08.2020 - 15:07:06 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+17.08.2020 - 15:07:06 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+17.08.2020 - 15:07:06 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+17.08.2020 - 15:07:06 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+17.08.2020 - 15:07:06 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+17.08.2020 - 15:07:06 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+17.08.2020 - 15:07:06 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+17.08.2020 - 15:07:06 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+17.08.2020 - 15:07:06 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+17.08.2020 - 15:07:06 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+17.08.2020 - 15:07:06 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+17.08.2020 - 15:07:06 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+17.08.2020 - 15:07:06 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+17.08.2020 - 15:07:06 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+17.08.2020 - 15:07:06 -        at java.lang.Thread.run(Thread.java:748)
+17.08.2020 - 15:09:07 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+17.08.2020 - 18:24:35 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+17.08.2020 - 22:10:06 - [TAB v2.8.2] Failed to disable
+17.08.2020 - 22:10:06 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+17.08.2020 - 22:10:06 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+17.08.2020 - 22:10:06 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+17.08.2020 - 22:10:06 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+17.08.2020 - 22:10:06 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+17.08.2020 - 22:10:06 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+17.08.2020 - 22:10:06 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+17.08.2020 - 22:10:06 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+17.08.2020 - 22:10:06 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+17.08.2020 - 22:10:06 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+17.08.2020 - 22:10:06 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+17.08.2020 - 22:10:06 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+17.08.2020 - 22:10:06 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+17.08.2020 - 22:10:06 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+17.08.2020 - 22:10:06 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+17.08.2020 - 22:10:06 -        at java.lang.Thread.run(Thread.java:748)
+17.08.2020 - 22:12:15 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+17.08.2020 - 22:53:54 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+18.08.2020 - 20:07:18 - [TAB v2.8.2] Failed to disable
+18.08.2020 - 20:07:18 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+18.08.2020 - 20:07:18 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+18.08.2020 - 20:07:18 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+18.08.2020 - 20:07:18 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+18.08.2020 - 20:07:18 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+18.08.2020 - 20:07:18 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+18.08.2020 - 20:07:18 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+18.08.2020 - 20:07:18 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+18.08.2020 - 20:07:18 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+18.08.2020 - 20:07:18 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+18.08.2020 - 20:07:18 -        at org.bukkit.plugin.SimplePluginManager.clearPlugins(SimplePluginManager.java:544)
+18.08.2020 - 20:07:18 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.reload(CraftServer.java:841)
+18.08.2020 - 20:07:18 -        at org.bukkit.Bukkit.reload(Bukkit.java:642)
+18.08.2020 - 20:07:18 -        at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27)
+18.08.2020 - 20:07:18 -        at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149)
+18.08.2020 - 20:07:18 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.dispatchCommand(CraftServer.java:757)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.PlayerConnection.handleCommand(PlayerConnection.java:1703)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.PlayerConnection.a(PlayerConnection.java:1546)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.PacketPlayInChat.a(PacketPlayInChat.java:47)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.PacketPlayInChat.a(PacketPlayInChat.java:1)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.PlayerConnectionUtils.lambda$0(PlayerConnectionUtils.java:19)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.TickTask.run(SourceFile:18)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.IAsyncTaskHandler.executeTask(SourceFile:144)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.IAsyncTaskHandler.executeNext(SourceFile:118)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.MinecraftServer.aZ(MinecraftServer.java:943)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.MinecraftServer.executeNext(MinecraftServer.java:936)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.IAsyncTaskHandler.executeAll(SourceFile:103)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.MinecraftServer.sleepForTick(MinecraftServer.java:919)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:852)
+18.08.2020 - 20:07:18 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+18.08.2020 - 20:07:18 -        at java.lang.Thread.run(Thread.java:748)
+18.08.2020 - 20:07:34 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+18.08.2020 - 20:07:34 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+18.08.2020 - 20:31:19 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+18.08.2020 - 20:31:20 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+18.08.2020 - 21:49:22 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+19.08.2020 - 00:53:05 - [TAB v2.8.2] Failed to disable
+19.08.2020 - 00:53:05 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+19.08.2020 - 00:53:05 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+19.08.2020 - 00:53:05 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+19.08.2020 - 00:53:05 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+19.08.2020 - 00:53:05 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+19.08.2020 - 00:53:05 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+19.08.2020 - 00:53:05 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+19.08.2020 - 00:53:05 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+19.08.2020 - 00:53:05 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+19.08.2020 - 00:53:05 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+19.08.2020 - 00:53:05 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+19.08.2020 - 00:53:05 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+19.08.2020 - 00:53:05 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+19.08.2020 - 00:53:05 -        at net.minecraft.server.v1_16_R1.MinecraftServer.close(MinecraftServer.java:694)
+19.08.2020 - 00:53:05 -        at org.spigotmc.RestartCommand.restart(RestartCommand.java:119)
+19.08.2020 - 00:53:05 -        at org.spigotmc.RestartCommand.restart(RestartCommand.java:40)
+19.08.2020 - 00:53:05 -        at org.spigotmc.WatchdogThread.run(WatchdogThread.java:95)
+19.08.2020 - 10:18:15 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+19.08.2020 - 10:33:49 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+19.08.2020 - 16:39:17 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+19.08.2020 - 21:09:06 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+19.08.2020 - 21:11:54 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+19.08.2020 - 21:19:28 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+19.08.2020 - 21:57:12 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+20.08.2020 - 17:07:14 - [TAB v2.8.2] Failed to disable
+20.08.2020 - 17:07:14 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+20.08.2020 - 17:07:14 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+20.08.2020 - 17:07:14 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+20.08.2020 - 17:07:14 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+20.08.2020 - 17:07:14 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+20.08.2020 - 17:07:14 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+20.08.2020 - 17:07:14 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+20.08.2020 - 17:07:14 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+20.08.2020 - 17:07:14 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+20.08.2020 - 17:07:14 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+20.08.2020 - 17:07:14 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+20.08.2020 - 17:07:14 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+20.08.2020 - 17:07:14 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+20.08.2020 - 17:07:14 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+20.08.2020 - 17:07:14 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+20.08.2020 - 17:07:14 -        at java.lang.Thread.run(Thread.java:748)
+21.08.2020 - 13:08:05 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+21.08.2020 - 14:42:46 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+21.08.2020 - 16:27:56 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+22.08.2020 - 21:24:36 - [TAB v2.8.2] Failed to disable
+22.08.2020 - 21:24:36 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+22.08.2020 - 21:24:36 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+22.08.2020 - 21:24:36 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+22.08.2020 - 21:24:36 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+22.08.2020 - 21:24:36 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+22.08.2020 - 21:24:36 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+22.08.2020 - 21:24:36 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+22.08.2020 - 21:24:36 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+22.08.2020 - 21:24:36 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+22.08.2020 - 21:24:36 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+22.08.2020 - 21:24:36 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+22.08.2020 - 21:24:36 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+22.08.2020 - 21:24:36 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+22.08.2020 - 21:24:36 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+22.08.2020 - 21:24:36 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+22.08.2020 - 21:24:36 -        at java.lang.Thread.run(Thread.java:748)
+22.08.2020 - 21:26:47 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+22.08.2020 - 21:26:58 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+22.08.2020 - 21:27:17 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+22.08.2020 - 22:15:12 - [TAB v2.8.2] Failed to disable
+22.08.2020 - 22:15:12 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+22.08.2020 - 22:15:12 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+22.08.2020 - 22:15:12 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+22.08.2020 - 22:15:12 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+22.08.2020 - 22:15:12 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+22.08.2020 - 22:15:12 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+22.08.2020 - 22:15:12 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+22.08.2020 - 22:15:12 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+22.08.2020 - 22:15:12 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+22.08.2020 - 22:15:12 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+22.08.2020 - 22:15:12 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+22.08.2020 - 22:15:12 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+22.08.2020 - 22:15:12 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+22.08.2020 - 22:15:12 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+22.08.2020 - 22:15:12 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+22.08.2020 - 22:15:12 -        at java.lang.Thread.run(Thread.java:748)
+22.08.2020 - 22:19:49 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+22.08.2020 - 22:20:11 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+22.08.2020 - 22:30:40 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+22.08.2020 - 23:59:11 - [TAB v2.8.2] Failed to disable
+22.08.2020 - 23:59:11 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+22.08.2020 - 23:59:11 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+22.08.2020 - 23:59:11 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+22.08.2020 - 23:59:11 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+22.08.2020 - 23:59:11 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+22.08.2020 - 23:59:11 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+22.08.2020 - 23:59:11 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+22.08.2020 - 23:59:11 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+22.08.2020 - 23:59:11 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+22.08.2020 - 23:59:11 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+22.08.2020 - 23:59:11 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+22.08.2020 - 23:59:11 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+22.08.2020 - 23:59:11 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+22.08.2020 - 23:59:11 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+22.08.2020 - 23:59:11 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+22.08.2020 - 23:59:11 -        at java.lang.Thread.run(Thread.java:748)
+23.08.2020 - 00:02:24 - [TAB v2.8.2] Failed to disable
+23.08.2020 - 00:02:24 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+23.08.2020 - 00:02:24 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+23.08.2020 - 00:02:24 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+23.08.2020 - 00:02:24 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+23.08.2020 - 00:02:24 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+23.08.2020 - 00:02:24 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+23.08.2020 - 00:02:24 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+23.08.2020 - 00:02:24 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+23.08.2020 - 00:02:24 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+23.08.2020 - 00:02:24 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+23.08.2020 - 00:02:24 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+23.08.2020 - 00:02:24 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+23.08.2020 - 00:02:24 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+23.08.2020 - 00:02:24 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+23.08.2020 - 00:02:24 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+23.08.2020 - 00:02:24 -        at java.lang.Thread.run(Thread.java:748)
+23.08.2020 - 00:04:59 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+23.08.2020 - 00:06:47 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+23.08.2020 - 00:47:50 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+23.08.2020 - 11:23:23 - [TAB v2.8.2] Failed to disable
+23.08.2020 - 11:23:23 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+23.08.2020 - 11:23:23 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+23.08.2020 - 11:23:23 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+23.08.2020 - 11:23:23 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+23.08.2020 - 11:23:23 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+23.08.2020 - 11:23:23 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+23.08.2020 - 11:23:23 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+23.08.2020 - 11:23:23 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+23.08.2020 - 11:23:23 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+23.08.2020 - 11:23:23 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+23.08.2020 - 11:23:23 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+23.08.2020 - 11:23:23 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+23.08.2020 - 11:23:23 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+23.08.2020 - 11:23:23 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+23.08.2020 - 11:23:23 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+23.08.2020 - 11:23:23 -        at java.lang.Thread.run(Thread.java:748)
+23.08.2020 - 12:00:12 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+23.08.2020 - 12:04:27 - [TAB v2.8.2] Failed to disable
+23.08.2020 - 12:04:27 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+23.08.2020 - 12:04:27 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+23.08.2020 - 12:04:27 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+23.08.2020 - 12:04:27 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+23.08.2020 - 12:04:27 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+23.08.2020 - 12:04:27 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+23.08.2020 - 12:04:27 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+23.08.2020 - 12:04:27 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+23.08.2020 - 12:04:27 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+23.08.2020 - 12:04:27 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+23.08.2020 - 12:04:27 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+23.08.2020 - 12:04:27 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+23.08.2020 - 12:04:27 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+23.08.2020 - 12:04:27 -        at net.minecraft.server.v1_16_R1.MinecraftServer.close(MinecraftServer.java:694)
+23.08.2020 - 12:04:27 -        at org.spigotmc.RestartCommand.restart(RestartCommand.java:119)
+23.08.2020 - 12:04:27 -        at org.spigotmc.RestartCommand.restart(RestartCommand.java:40)
+23.08.2020 - 12:04:27 -        at org.spigotmc.WatchdogThread.run(WatchdogThread.java:95)
+23.08.2020 - 12:06:53 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+23.08.2020 - 12:24:37 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+23.08.2020 - 15:47:11 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+24.08.2020 - 14:14:35 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+24.08.2020 - 16:48:08 - [TAB v2.8.2] Failed to disable
+24.08.2020 - 16:48:08 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+24.08.2020 - 16:48:08 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+24.08.2020 - 16:48:08 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+24.08.2020 - 16:48:08 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+24.08.2020 - 16:48:08 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+24.08.2020 - 16:48:08 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+24.08.2020 - 16:48:08 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+24.08.2020 - 16:48:08 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+24.08.2020 - 16:48:08 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+24.08.2020 - 16:48:08 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+24.08.2020 - 16:48:08 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+24.08.2020 - 16:48:08 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+24.08.2020 - 16:48:08 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+24.08.2020 - 16:48:08 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+24.08.2020 - 16:48:08 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+24.08.2020 - 16:48:08 -        at java.lang.Thread.run(Thread.java:748)
+24.08.2020 - 16:50:30 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+24.08.2020 - 16:50:33 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+24.08.2020 - 16:50:41 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+24.08.2020 - 17:41:14 - [TAB v2.8.2] Failed to disable
+24.08.2020 - 17:41:14 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+24.08.2020 - 17:41:14 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+24.08.2020 - 17:41:14 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+24.08.2020 - 17:41:14 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+24.08.2020 - 17:41:14 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+24.08.2020 - 17:41:14 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+24.08.2020 - 17:41:14 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+24.08.2020 - 17:41:14 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+24.08.2020 - 17:41:14 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+24.08.2020 - 17:41:14 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+24.08.2020 - 17:41:14 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+24.08.2020 - 17:41:14 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+24.08.2020 - 17:41:14 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+24.08.2020 - 17:41:14 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+24.08.2020 - 17:41:14 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+24.08.2020 - 17:41:14 -        at java.lang.Thread.run(Thread.java:748)
+24.08.2020 - 17:44:28 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+24.08.2020 - 17:44:41 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+24.08.2020 - 18:41:44 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+24.08.2020 - 21:36:43 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+25.08.2020 - 11:37:21 - [TAB v2.8.2] Failed to disable
+25.08.2020 - 11:37:21 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+25.08.2020 - 11:37:21 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+25.08.2020 - 11:37:21 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+25.08.2020 - 11:37:21 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+25.08.2020 - 11:37:21 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+25.08.2020 - 11:37:21 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+25.08.2020 - 11:37:21 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+25.08.2020 - 11:37:21 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+25.08.2020 - 11:37:21 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+25.08.2020 - 11:37:21 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+25.08.2020 - 11:37:21 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+25.08.2020 - 11:37:21 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+25.08.2020 - 11:37:21 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+25.08.2020 - 11:37:21 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+25.08.2020 - 11:37:21 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+25.08.2020 - 11:37:21 -        at java.lang.Thread.run(Thread.java:748)
+25.08.2020 - 11:42:35 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+25.08.2020 - 12:23:17 - [TAB v2.8.2] Failed to disable
+25.08.2020 - 12:23:17 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+25.08.2020 - 12:23:17 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+25.08.2020 - 12:23:17 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+25.08.2020 - 12:23:17 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+25.08.2020 - 12:23:17 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+25.08.2020 - 12:23:17 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+25.08.2020 - 12:23:17 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+25.08.2020 - 12:23:17 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+25.08.2020 - 12:23:17 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+25.08.2020 - 12:23:17 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+25.08.2020 - 12:23:17 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+25.08.2020 - 12:23:17 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+25.08.2020 - 12:23:17 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+25.08.2020 - 12:23:17 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+25.08.2020 - 12:23:17 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+25.08.2020 - 12:23:17 -        at java.lang.Thread.run(Thread.java:748)
+25.08.2020 - 12:27:03 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+25.08.2020 - 14:41:34 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+25.08.2020 - 15:26:17 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+25.08.2020 - 16:41:05 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+26.08.2020 - 11:42:20 - [TAB v2.8.2] Failed to disable
+26.08.2020 - 11:42:20 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+26.08.2020 - 11:42:20 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+26.08.2020 - 11:42:20 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+26.08.2020 - 11:42:20 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+26.08.2020 - 11:42:20 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+26.08.2020 - 11:42:20 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+26.08.2020 - 11:42:20 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+26.08.2020 - 11:42:20 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+26.08.2020 - 11:42:20 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+26.08.2020 - 11:42:20 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+26.08.2020 - 11:42:20 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+26.08.2020 - 11:42:20 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+26.08.2020 - 11:42:20 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+26.08.2020 - 11:42:20 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+26.08.2020 - 11:42:20 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+26.08.2020 - 11:42:20 -        at java.lang.Thread.run(Thread.java:748)
+26.08.2020 - 11:51:39 - [TAB v2.8.2] Group "otan" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "otan" into group-sorting-priority-list in config.yml.
+26.08.2020 - 13:29:35 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+26.08.2020 - 16:34:25 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+26.08.2020 - 20:51:16 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+27.08.2020 - 14:52:47 - [TAB v2.8.2] Group "programador" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "programador" into group-sorting-priority-list in config.yml.
+27.08.2020 - 14:53:15 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+27.08.2020 - 16:12:55 - [TAB v2.8.2] Failed to disable
+27.08.2020 - 16:12:55 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+27.08.2020 - 16:12:55 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+27.08.2020 - 16:12:55 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+27.08.2020 - 16:12:55 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+27.08.2020 - 16:12:55 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+27.08.2020 - 16:12:55 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+27.08.2020 - 16:12:55 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+27.08.2020 - 16:12:55 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+27.08.2020 - 16:12:55 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+27.08.2020 - 16:12:55 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+27.08.2020 - 16:12:55 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+27.08.2020 - 16:12:55 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+27.08.2020 - 16:12:55 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+27.08.2020 - 16:12:55 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+27.08.2020 - 16:12:55 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+27.08.2020 - 16:12:55 -        at java.lang.Thread.run(Thread.java:748)
+27.08.2020 - 16:21:21 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+27.08.2020 - 16:22:56 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+27.08.2020 - 16:37:00 - [TAB v2.8.2] Failed to disable
+27.08.2020 - 16:37:00 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+27.08.2020 - 16:37:00 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+27.08.2020 - 16:37:00 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+27.08.2020 - 16:37:00 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+27.08.2020 - 16:37:00 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+27.08.2020 - 16:37:00 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+27.08.2020 - 16:37:00 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+27.08.2020 - 16:37:00 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+27.08.2020 - 16:37:00 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+27.08.2020 - 16:37:00 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+27.08.2020 - 16:37:00 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+27.08.2020 - 16:37:00 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+27.08.2020 - 16:37:00 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+27.08.2020 - 16:37:00 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+27.08.2020 - 16:37:00 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+27.08.2020 - 16:37:00 -        at java.lang.Thread.run(Thread.java:748)
+27.08.2020 - 17:24:04 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+27.08.2020 - 17:50:37 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+27.08.2020 - 22:37:08 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+28.08.2020 - 13:14:24 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+29.08.2020 - 19:18:39 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+29.08.2020 - 20:54:27 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+30.08.2020 - 11:46:20 - [TAB v2.8.2] Failed to disable
+30.08.2020 - 11:46:20 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+30.08.2020 - 11:46:20 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+30.08.2020 - 11:46:20 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+30.08.2020 - 11:46:20 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+30.08.2020 - 11:46:20 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+30.08.2020 - 11:46:20 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+30.08.2020 - 11:46:20 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+30.08.2020 - 11:46:20 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+30.08.2020 - 11:46:20 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+30.08.2020 - 11:46:20 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+30.08.2020 - 11:46:20 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+30.08.2020 - 11:46:20 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+30.08.2020 - 11:46:20 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+30.08.2020 - 11:46:20 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+30.08.2020 - 11:46:20 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+30.08.2020 - 11:46:20 -        at java.lang.Thread.run(Thread.java:748)
+30.08.2020 - 12:02:21 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+30.08.2020 - 12:04:01 - [TAB v2.8.2] Failed to disable
+30.08.2020 - 12:04:01 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+30.08.2020 - 12:04:01 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+30.08.2020 - 12:04:01 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+30.08.2020 - 12:04:01 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+30.08.2020 - 12:04:01 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+30.08.2020 - 12:04:01 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+30.08.2020 - 12:04:01 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+30.08.2020 - 12:04:01 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+30.08.2020 - 12:04:01 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+30.08.2020 - 12:04:01 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+30.08.2020 - 12:04:01 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+30.08.2020 - 12:04:01 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+30.08.2020 - 12:04:01 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+30.08.2020 - 12:04:01 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+30.08.2020 - 12:04:01 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+30.08.2020 - 12:04:01 -        at java.lang.Thread.run(Thread.java:748)
+30.08.2020 - 12:21:22 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+30.08.2020 - 13:18:57 - [TAB v2.8.2] Failed to disable
+30.08.2020 - 13:18:57 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+30.08.2020 - 13:18:57 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+30.08.2020 - 13:18:57 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+30.08.2020 - 13:18:57 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+30.08.2020 - 13:18:57 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+30.08.2020 - 13:18:57 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+30.08.2020 - 13:18:57 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+30.08.2020 - 13:18:57 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+30.08.2020 - 13:18:57 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+30.08.2020 - 13:18:57 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+30.08.2020 - 13:18:57 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+30.08.2020 - 13:18:57 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+30.08.2020 - 13:18:57 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+30.08.2020 - 13:18:57 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+30.08.2020 - 13:18:57 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+30.08.2020 - 13:18:57 -        at java.lang.Thread.run(Thread.java:748)
+30.08.2020 - 13:30:19 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+30.08.2020 - 20:01:11 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+31.08.2020 - 13:36:34 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+31.08.2020 - 17:44:07 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+31.08.2020 - 18:03:27 - [TAB v2.8.2] Failed to disable
+31.08.2020 - 18:03:27 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+31.08.2020 - 18:03:27 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+31.08.2020 - 18:03:27 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+31.08.2020 - 18:03:27 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+31.08.2020 - 18:03:27 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+31.08.2020 - 18:03:27 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+31.08.2020 - 18:03:27 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+31.08.2020 - 18:03:27 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+31.08.2020 - 18:03:27 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+31.08.2020 - 18:03:27 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+31.08.2020 - 18:03:27 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+31.08.2020 - 18:03:27 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+31.08.2020 - 18:03:27 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+31.08.2020 - 18:03:27 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+31.08.2020 - 18:03:27 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+31.08.2020 - 18:03:27 -        at java.lang.Thread.run(Thread.java:748)
+31.08.2020 - 18:06:30 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+31.08.2020 - 18:09:00 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+01.09.2020 - 13:19:22 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+02.09.2020 - 00:33:44 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+03.09.2020 - 18:10:29 - [TAB v2.8.2] Failed to disable
+03.09.2020 - 18:10:29 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+03.09.2020 - 18:10:29 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+03.09.2020 - 18:10:29 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+03.09.2020 - 18:10:29 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+03.09.2020 - 18:10:29 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+03.09.2020 - 18:10:29 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+03.09.2020 - 18:10:29 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+03.09.2020 - 18:10:29 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+03.09.2020 - 18:10:29 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+03.09.2020 - 18:10:29 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+03.09.2020 - 18:10:29 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+03.09.2020 - 18:10:29 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+03.09.2020 - 18:10:29 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+03.09.2020 - 18:10:29 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+03.09.2020 - 18:10:29 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+03.09.2020 - 18:10:29 -        at java.lang.Thread.run(Thread.java:748)
+03.09.2020 - 18:12:17 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+03.09.2020 - 18:12:19 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+03.09.2020 - 18:42:50 - [TAB v2.8.2] Failed to disable
+03.09.2020 - 18:42:50 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+03.09.2020 - 18:42:50 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+03.09.2020 - 18:42:50 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+03.09.2020 - 18:42:50 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+03.09.2020 - 18:42:50 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+03.09.2020 - 18:42:50 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+03.09.2020 - 18:42:50 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+03.09.2020 - 18:42:50 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+03.09.2020 - 18:42:50 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+03.09.2020 - 18:42:50 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+03.09.2020 - 18:42:50 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+03.09.2020 - 18:42:50 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+03.09.2020 - 18:42:50 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+03.09.2020 - 18:42:50 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+03.09.2020 - 18:42:50 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+03.09.2020 - 18:42:50 -        at java.lang.Thread.run(Thread.java:748)
+03.09.2020 - 18:44:48 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+03.09.2020 - 18:45:03 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+03.09.2020 - 18:51:19 - [TAB v2.8.2] Failed to disable
+03.09.2020 - 18:51:19 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+03.09.2020 - 18:51:19 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+03.09.2020 - 18:51:19 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+03.09.2020 - 18:51:19 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+03.09.2020 - 18:51:19 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+03.09.2020 - 18:51:19 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+03.09.2020 - 18:51:19 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+03.09.2020 - 18:51:19 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+03.09.2020 - 18:51:19 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+03.09.2020 - 18:51:19 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+03.09.2020 - 18:51:19 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+03.09.2020 - 18:51:19 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+03.09.2020 - 18:51:19 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+03.09.2020 - 18:51:19 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+03.09.2020 - 18:51:19 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+03.09.2020 - 18:51:19 -        at java.lang.Thread.run(Thread.java:748)
+03.09.2020 - 18:54:06 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+04.09.2020 - 00:43:35 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+06.09.2020 - 23:05:01 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+07.09.2020 - 17:43:08 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+07.09.2020 - 18:12:09 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+08.09.2020 - 15:24:06 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+08.09.2020 - 20:23:02 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
+08.09.2020 - 22:48:28 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+09.09.2020 - 15:50:08 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+11.09.2020 - 13:22:35 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+11.09.2020 - 17:56:57 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+16.09.2020 - 17:11:19 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+16.09.2020 - 20:13:13 - [TAB v2.8.2] Failed to disable
+16.09.2020 - 20:13:13 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+16.09.2020 - 20:13:13 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+16.09.2020 - 20:13:13 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+16.09.2020 - 20:13:13 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+16.09.2020 - 20:13:13 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+16.09.2020 - 20:13:13 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+16.09.2020 - 20:13:13 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+16.09.2020 - 20:13:13 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+16.09.2020 - 20:13:13 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+16.09.2020 - 20:13:13 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+16.09.2020 - 20:13:13 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+16.09.2020 - 20:13:13 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+16.09.2020 - 20:13:13 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+16.09.2020 - 20:13:13 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+16.09.2020 - 20:13:13 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+16.09.2020 - 20:13:13 -        at java.lang.Thread.run(Thread.java:748)
+17.09.2020 - 16:34:28 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+17.09.2020 - 17:38:31 - [TAB v2.8.2] Failed to disable
+17.09.2020 - 17:38:31 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+17.09.2020 - 17:38:31 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+17.09.2020 - 17:38:31 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+17.09.2020 - 17:38:31 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+17.09.2020 - 17:38:31 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+17.09.2020 - 17:38:31 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+17.09.2020 - 17:38:31 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+17.09.2020 - 17:38:31 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+17.09.2020 - 17:38:31 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+17.09.2020 - 17:38:31 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+17.09.2020 - 17:38:31 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+17.09.2020 - 17:38:31 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+17.09.2020 - 17:38:31 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+17.09.2020 - 17:38:31 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+17.09.2020 - 17:38:31 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+17.09.2020 - 17:38:31 -        at java.lang.Thread.run(Thread.java:748)
+18.09.2020 - 15:30:49 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+19.09.2020 - 13:19:13 - [TAB v2.8.2] Group "peaceful" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "peaceful" into group-sorting-priority-list in config.yml.
+19.09.2020 - 16:45:29 - [TAB v2.8.2] Failed to disable
+19.09.2020 - 16:45:29 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+19.09.2020 - 16:45:29 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+19.09.2020 - 16:45:29 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+19.09.2020 - 16:45:29 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+19.09.2020 - 16:45:29 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+19.09.2020 - 16:45:29 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+19.09.2020 - 16:45:29 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+19.09.2020 - 16:45:29 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+19.09.2020 - 16:45:29 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+19.09.2020 - 16:45:29 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+19.09.2020 - 16:45:29 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+19.09.2020 - 16:45:29 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+19.09.2020 - 16:45:29 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+19.09.2020 - 16:45:29 -        at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:889)
+19.09.2020 - 16:45:29 -        at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$0(MinecraftServer.java:164)
+19.09.2020 - 16:45:29 -        at java.lang.Thread.run(Thread.java:748)
+20.09.2020 - 14:15:02 - [TAB v2.8.2] Failed to disable
+20.09.2020 - 14:15:02 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+20.09.2020 - 14:15:02 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+20.09.2020 - 14:15:02 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+20.09.2020 - 14:15:02 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+20.09.2020 - 14:15:02 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+20.09.2020 - 14:15:02 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+20.09.2020 - 14:15:02 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+20.09.2020 - 14:15:02 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+20.09.2020 - 14:15:02 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+20.09.2020 - 14:15:02 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+20.09.2020 - 14:15:02 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+20.09.2020 - 14:15:02 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+20.09.2020 - 14:15:02 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+20.09.2020 - 14:15:02 -        at net.minecraft.server.v1_16_R1.MinecraftServer.close(MinecraftServer.java:694)
+20.09.2020 - 14:15:02 -        at org.bukkit.craftbukkit.v1_16_R1.util.ServerShutdownThread.run(ServerShutdownThread.java:16)
+21.09.2020 - 20:23:06 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+25.09.2020 - 20:23:56 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+29.09.2020 - 14:53:17 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+03.10.2020 - 13:00:43 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+04.10.2020 - 15:57:05 - [TAB v2.8.2] Group "facha" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "facha" into group-sorting-priority-list in config.yml.
+06.10.2020 - 08:53:38 - [TAB v2.8.2] Failed to disable
+06.10.2020 - 08:53:38 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+06.10.2020 - 08:53:38 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+06.10.2020 - 08:53:38 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+06.10.2020 - 08:53:38 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+06.10.2020 - 08:53:38 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+06.10.2020 - 08:53:38 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+06.10.2020 - 08:53:38 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+06.10.2020 - 08:53:38 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+06.10.2020 - 08:53:38 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+06.10.2020 - 08:53:38 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+06.10.2020 - 08:53:38 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+06.10.2020 - 08:53:38 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+06.10.2020 - 08:53:38 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+06.10.2020 - 08:53:38 -        at net.minecraft.server.v1_16_R1.MinecraftServer.close(MinecraftServer.java:694)
+06.10.2020 - 08:53:38 -        at org.bukkit.craftbukkit.v1_16_R1.util.ServerShutdownThread.run(ServerShutdownThread.java:16)
+08.10.2020 - 07:52:48 - [TAB v2.8.2] Failed to disable
+08.10.2020 - 07:52:48 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+08.10.2020 - 07:52:48 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+08.10.2020 - 07:52:48 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+08.10.2020 - 07:52:48 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+08.10.2020 - 07:52:48 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+08.10.2020 - 07:52:48 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+08.10.2020 - 07:52:48 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+08.10.2020 - 07:52:48 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+08.10.2020 - 07:52:48 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+08.10.2020 - 07:52:48 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+08.10.2020 - 07:52:48 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+08.10.2020 - 07:52:48 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+08.10.2020 - 07:52:48 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+08.10.2020 - 07:52:48 -        at net.minecraft.server.v1_16_R1.MinecraftServer.close(MinecraftServer.java:694)
+08.10.2020 - 07:52:48 -        at org.bukkit.craftbukkit.v1_16_R1.util.ServerShutdownThread.run(ServerShutdownThread.java:16)
+09.10.2020 - 20:14:04 - [TAB v2.8.2] Group "nanotrasen" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "nanotrasen" into group-sorting-priority-list in config.yml.
+12.10.2020 - 12:59:25 - [TAB v2.8.2] Failed to disable
+12.10.2020 - 12:59:25 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+12.10.2020 - 12:59:25 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+12.10.2020 - 12:59:25 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+12.10.2020 - 12:59:25 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+12.10.2020 - 12:59:25 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+12.10.2020 - 12:59:25 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+12.10.2020 - 12:59:25 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+12.10.2020 - 12:59:25 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+12.10.2020 - 12:59:25 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+12.10.2020 - 12:59:25 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+12.10.2020 - 12:59:25 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+12.10.2020 - 12:59:25 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+12.10.2020 - 12:59:25 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+12.10.2020 - 12:59:25 -        at net.minecraft.server.v1_16_R1.MinecraftServer.close(MinecraftServer.java:694)
+12.10.2020 - 12:59:25 -        at org.bukkit.craftbukkit.v1_16_R1.util.ServerShutdownThread.run(ServerShutdownThread.java:16)
+12.10.2020 - 14:48:04 - [TAB v2.8.2] Failed to disable
+12.10.2020 - 14:48:04 - java.lang.NoSuchMethodError: me.clip.placeholderapi.PlaceholderAPI.unregisterExpansion(Lme/clip/placeholderapi/expansion/PlaceholderExpansion;)Z
+12.10.2020 - 14:48:04 -        at me.neznamy.tab.platforms.bukkit.features.TabExpansion.unload(TabExpansion.java:22)
+12.10.2020 - 14:48:04 -        at me.neznamy.tab.shared.Shared.lambda$2(Shared.java:123)
+12.10.2020 - 14:48:04 -        at java.util.ArrayList.forEach(ArrayList.java:1259)
+12.10.2020 - 14:48:04 -        at me.neznamy.tab.shared.Shared.unload(Shared.java:123)
+12.10.2020 - 14:48:04 -        at me.neznamy.tab.platforms.bukkit.Main.onDisable(Main.java:142)
+12.10.2020 - 14:48:04 -        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265)
+12.10.2020 - 14:48:04 -        at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:376)
+12.10.2020 - 14:48:04 -        at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501)
+12.10.2020 - 14:48:04 -        at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493)
+12.10.2020 - 14:48:04 -        at org.bukkit.craftbukkit.v1_16_R1.CraftServer.disablePlugins(CraftServer.java:427)
+12.10.2020 - 14:48:04 -        at net.minecraft.server.v1_16_R1.MinecraftServer.stop(MinecraftServer.java:717)
+12.10.2020 - 14:48:04 -        at net.minecraft.server.v1_16_R1.DedicatedServer.stop(DedicatedServer.java:644)
+12.10.2020 - 14:48:04 -        at net.minecraft.server.v1_16_R1.MinecraftServer.close(MinecraftServer.java:694)
+12.10.2020 - 14:48:04 -        at org.bukkit.craftbukkit.v1_16_R1.util.ServerShutdownThread.run(ServerShutdownThread.java:16)
+13.10.2020 - 02:11:35 - [TAB v2.8.2] Group "protodragons" is not defined in sorting list! This will result in players in that group not being sorted correctly. To fix this, add group "protodragons" into group-sorting-priority-list in config.yml.
