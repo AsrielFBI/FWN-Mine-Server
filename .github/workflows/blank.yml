@@ -22,3 +22,4 @@ jobs:
       with:
         # Goes into your configuration files and gets the latest changes from github
         script: ~/FWN-Mine-Server && git stash && git pull && sudo systemctl restart minecraft && ls -la
+        key: ${{ secrets.PRIVATE_KEY }}
