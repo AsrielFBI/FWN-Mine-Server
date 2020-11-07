@@ -6,13 +6,15 @@ name: CI
 # events but only for the main branch
 on:
   push:
-    tags:
-      - 'Build:.*'
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   deploy:
     runs-on: debian-buster
+    if: contains(github.event.head_commit.message, ‘Build’)
     steps:
     - uses: actions/checkout@v2
     - name: Build Server
