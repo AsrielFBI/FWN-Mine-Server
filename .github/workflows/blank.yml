@@ -1,0 +1,22 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the main branch
+on:
+  push:
+    tags:
+      - 'Build:.*'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  deploy:
+    runs-on: debian-buster
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build Server
+      uses: appleboy/ssh-action@v0.0.7
+      with:
+        # Goes into your configuration files and gets the latest changes from github
+        script: ~/FWN-Mine-Server && git stash && git pull && sudo systemctl restart minecraft && ls -la
