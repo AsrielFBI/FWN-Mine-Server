@@ -1,0 +1,25 @@
+# Ignorar logs del serverr
+*.log 
+*.log.gz
+logs/
+
+# Ignorar plugins de alto riesgo
+
+plugins/DiscordSRV/
+plugins/ImageOnMap/
+plugins/LoginSecurity/
+plugins/TAB/
+plugins/EssentialsGeoIP/
+plugins/bStats/
+
+# Ignorar parámetros especiales
+
+ops.json
+help.yml
+permissions.yml
+usercache.json
+banned-ips.json
+banned-players.json
+bukkit.yml
+commands.yml
+
