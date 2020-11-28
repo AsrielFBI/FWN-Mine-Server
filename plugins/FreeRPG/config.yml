@@ -1,0 +1,103 @@
+#---------------------------------------------
+#   ______             _____  _____   _____
+#  |  ____|           |  __ \|  __ \ / ____|
+#  | |__ _ __ ___  ___| |__) | |__) | |  __
+#  |  __| '__/ _ \/ _ \  _  /|  ___/| | |_ |
+#  | |  | | |  __/  __/ | \ \| |    | |__| |
+#  |_|  |_|  \___|\___|_|  \_\_|     \_____|
+#---------------------------------------------
+# WARNING: This file will automatically try to repair itself if it is missing data. This will cause all comments to disappear
+#
+# Welcome to FreeRPG!
+# Support Discord: https://discord.gg/uAJXCnX
+#
+# This file is intended to be small and allow the ability to change simple aspects of the plugin
+# For more specific configuration, see advancedConfig.yml
+#
+
+general:
+  playerBaseHP: 20.0 #Player max health will reset to this value on login (or this value plus 4 if the player has the Hearty perk)
+  defaultLanguage: enUs #Choices: enUs, huHU, frFR, deDE, plPL, esCl, ruRU, ptBR and custom
+leveling:
+  # This is a global maxLevel, but is overridden by skillName.maxLevel
+  # In other words, this value will only affect a skill's max level is that skill's max level is set to -1
+  # -1 implies no maximum level
+  maxLevel: -1
+
+  #If true exp is earned past the maximum level, but no levels are gained. If false, no additional exp is gained.
+  earnExperiencePastMaxLevel: true
+
+global:
+  skillAllowed: true #Setting this to false disables all global skill tree and features
+  EXP_Multiplier: 1.0 #global Multiplier increases EXP in all skills and STACKS with all other multipliers
+digging:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+  abilityCooldown: 300 #This skill's ability cooldown (in seconds)
+woodcutting:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+  abilityCooldown: 300 #This skill's ability cooldown (in seconds)
+mining:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+  abilityCooldown: 300 #This skill's ability cooldown (in seconds)
+farming:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+  abilityCooldown: 300 #This skill's ability cooldown (in seconds)
+fishing:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+  abilityCooldown: 300 #This skill's ability cooldown (in seconds)
+archery:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+  abilityCooldown: 300 #This skill's ability cooldown (in seconds)
+beastMastery:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+  abilityCooldown: 150 #This skill's ability cooldown (in seconds)
+swordsmanship:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+  abilityCooldown: 300 #This skill's ability cooldown (in seconds)
+defense:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+  abilityCooldown: 300 #This skill's ability cooldown (in seconds)
+axeMastery:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+  abilityCooldown: 300 #This skill's ability cooldown (in seconds)
+repair:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+agility:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+alchemy:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+smelting:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+enchanting:
+  skillAllowed: true #Setting this to false disables all skill features and EXP drops.
+  maxLevel: -1
+  EXP_Multiplier: 1.0
+

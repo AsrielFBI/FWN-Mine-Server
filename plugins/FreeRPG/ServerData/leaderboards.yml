@@ -1,0 +1,86 @@
+swordsmanship:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 0
+repair:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 0
+enchanting:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 2725
+axeMastery:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 531
+fishing:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 0
+global:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    level: 57
+    totalExperience: 110483
+digging:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 0
+alchemy:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 0
+mining:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 0
+woodcutting:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 79906
+defense:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 90
+farming:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 240
+playTime:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    totalPlayTime: 0
+agility:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 26991
+archery:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 0
+beastMastery:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 0
+smelting:
+  '0':
+    UUID: 524a964b-f25b-3251-bd7b-93653a06967a
+    playerName: jose_reche
+    experience: 0
