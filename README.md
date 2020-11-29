@@ -8,3 +8,4 @@ Por favor, no robar sin permiso.
 
 Servidor creado y mantenido por RubenPX y AsrielFBI
 
+I cannot understand Spanish - DLG_Protogen 2020
