@@ -1,0 +1,37 @@
+# # # # # # # # # # # # # # # # # # # # #
+#  SuperJukebox configuration           #
+#  An awesome music plugin by Utarwyn!  #
+#  Version: 0.3.1                       #
+#  Contributors: Utarwyn, TCOOfficiall  #
+# # # # # # # # # # # # # # # # # # # # #
+
+# Enable debugging (use this only when you have a problem with the plugin)
+debug: false
+
+# The locale of the plugin
+locale: en
+
+# The prefix of the plugin! Use & for colorcodes (Having error's in 1.8)
+chat:
+  prefix: '&8[&3SuperJukebox&8] &7'
+
+# Let this config to true if you want to convert all jukeboxes into
+# super jukeboxes! (apply only on new placed jukeboxes)
+alljukeboxesaresuper: false
+
+# Default configuration for new jukeboxes!
+jukeboxconfiguration:
+  settings:
+    distance: 100
+    volume: 100
+    globalmusics: true
+    autoplay: false
+    particles: true
+    playwithredstone: false
+    announcements: true
+
+  # In this section, you can use OP, WITH_PERM or EVERYONE.
+  permissions:
+    interact: EVERYONE
+    editmusics: WITH_PERM
+    editsettings: WITH_PERM

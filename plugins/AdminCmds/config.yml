@@ -1,0 +1,208 @@
+#
+#----------------------######################---------------------------
+#                        AdminCmds v1.8.9 by Omidius
+#----------------------######################---------------------------
+#
+# This plugin gives your server staff access to a whole array of useful and fun commands!
+# In this config. file you can  change & customize every single in-game command message!
+#
+#--------------------------------------------------------------------------------------------------
+# COMMANDS:
+#        /achelp <page> - Shows you the help pages for AdminCmds.
+#        /acreload - Reloads the config.yml for AdminCmds.
+#        /freeze <username> - Freezes (and un-freezes) the targetted player.
+#        /launch <username> - Launches the targetted player into the air!
+#        /fakeop <username> - Sends the targetted player a fake de-op message.
+#        /fakedeop <username> - Sends the targetted player a fake de-op message.
+#        /fakegod <username> - Sends the targetted player a fake God mode message.
+#        /slap <username> - Takes 1HP from the targetted player and sends them a message.
+#        /confuse <username> - Gives the targetted player confusion for 10 seconds!
+#        /nightvision or /nv <username> - Toggles yourself or a target players' nightvision on/off.
+#        /clearchat - Completely clears the chat from messages!
+#        /fakejoin - Make your players think someone famous has joined!
+#        /fakequit - Does the opposite of the /fakejoin command!
+#        /fakecrash <username> - Kicks a player and gives them a fake error message!
+#        /nobreak <username> - Toggles if a target player can break/place blocks.
+#        /playersay <username> <message> - Lets you send a message as another online player!
+#        /playerinfo <username> - Shows you some fun and handy player statistics!
+#        /consolemsg <message> - Broadcasts a message to everyone as the Server.
+#        /runcmd <username> <message> - Lets you run a command as another online player!
+#        /gift <username> - Gifts the item in your hand to a target player!
+#        /warn <username> - Gives the player a custom warning message from the config.
+#        /slow <username> - Slows down (and speeds back up) the targetted player!
+#        /spamchat <message> - Completely fills the chat with whatever message you type in!
+#        /bgod <message> - Allows the user to broadcast a message as God.
+#        /godkit <username> - Gives yourself or a target player a powerful God kit!
+#        /wand <username> - Gives yourself or a target player a powerful Magic Wand!
+#        /report <username> <reason> - Sends a detailed report message to all Ops.
+#        /fcannon <username> - Gives you or a target player a Firework Cannon!
+#        /disablechat - Toggles whether all players can type in chat or not.
+#        /cakeparty - Gives every online player some Party Cake to enjoy!
+#--------------------------------------------------------------------------------------------------
+# PERMISSIONS:
+#         - admincmds.* (to be able to use all of the AdminCmds commands!)
+#         - admincmds.help (to be able to use the plugin's help commands.)
+#         - admincmds.reload (to be able to reload the config for AdminCmds.)
+#         - admincmds.freeze (to be able to use the /freeze command.)
+#         - admincmds.fakeop (to be able to use the /fakeop command.)
+#         - admincmds.fakedeop (to be able to use the /fakedeop command.)
+#         - admincmds.fakegod (to be able to use the /fakegod command.)
+#         - admincmds.slap (to be able to use the /slap command.)
+#         - admincmds.launch (to be able to use the /launch command.)
+#         - admincmds.confuse (to be able to use the /confuse command.)
+#         - admincmds.nightvision (to be able to use the /nv command.)
+#         - admincmds.nightvision.others (to be able to use the /nv command on others.)
+#         - admincmds.clearchat (to be able to use the /clearchat command.)
+#         - admincmds.fakejoin (to be able to use the /fakejoin command.)
+#         - admincmds.fakequit (to be able to use the /fakequit command.)
+#         - admincmds.fakecrash (to be able to use the /fakecrash command.)
+#         - admincmds.nobreak (to be able to use the /nobreak command.)
+#         - admincmds.playersay (to be able to use the /playersay command.)
+#         - admincmds.playerinfo (to be able to use the /playerinfo command.)
+#         - admincmds.consolemsg (to be able to use the /consolemsg command.)
+#         - admincmds.runcmd (to be able to use the /runcmd command.)
+#         - admincmds.gift (to be able to use the /gift command.)
+#         - admincmds.warn (to be able to use the /warn command.)
+#         - admincmds.slow (to be able to use the /slow command.)
+#         - admincmds.spamchat (to be able to use the /spamchat command.)
+#         - admincmds.bgod (to be able to use the /bgod command.)
+#         - admincmds.godkit (to be able to use the /godkit command.)
+#         - admincmds.wand (to be able to use the /wand command.)
+#         - admincmds.wand.use (to be able to use the Magic Wand.)
+#         - admincmds.report (to be able to use the /report command.)
+#         - admincmds.report.receive (to be able to recieve the reports from players.)
+#         - admincmds.fcannon (to be able to use the /fcannon command.)
+#         - admincmds.fcannon.use (to be able to use the Firework Cannon.)
+#         - admincmds.disablechat (to be able to use the /disablechat command.)
+#         - admincmds.disablechat.bypass (to be able to bypass the /disable command.)
+#         - admincmds.cakeparty (to be able to use the /cakeparty command.)
+#--------------------------------------------------------------------------------------------------
+
+# The Prefix will only ever be shown to the user who runs the commands. 
+# To have no preifx just set it as ''. 
+Prefix: '&8[&3Admin&bCmds&8]&r '
+
+#--------------------------------------------------------------------------------------------------
+Messages:
+#--------------------------------------------------------------------------------------------------
+#This allows you to change the message that shows when you reload the plugin.  
+  reload-message: "&aSuccessfully reloaded the AdminCmds config!"
+
+#This allows you to change the message that shows when the player doesn't have the right permissions.
+  no-permissions: "&cSorry, &7you don't have the permissions to do this!"
+
+#This allows you to change the message that broadcasts when you do the /fakejoin command.
+  fake-join-message: "&e<player> joined the game."
+
+#This allows you to change the message that broadcasts when you do the /fakequit command.  
+  fake-quit-message: "&e<player> left the game."
+
+#This allows you to change the message that broadcasts when you turn the chat off with /disablechat.  
+  disablechat-on-message: "&c&lThe chat has been disabled!"
+  
+#This allows you to change the message that broadcasts when you turn the chat back on with /disablechat.  
+  disablechat-off-message: "&a&lThe chat has been enabled again!"
+  
+#This allows you to change the message that shows when someone tries to talk and /disablechat is toggled on.  
+  disablechat-attempt-message: "&cYou cannot currently type in the chat."
+
+#This allows you to change the message that shows when the targeted player gets frozen.   
+  freeze-message: "&cYou have just been frozen in place!"
+  
+#This allows you to change the message that shows when the targeted player gets un-frozen.  
+  un-freeze-message: "&aYou have just been un-frozen!"
+
+#This allows you to change the message that shows when the targeted player gets launched.   
+  launch-message: "&dYou've been launched into the air by a &d&omysterious &dforce!"
+  
+#This allows you to change the message that shows when the targeted player gets slapped.   
+  slap-message: "&4&lOuch! &cYou've just been slapped!"
+  
+#This allows you to change the message that shows when the targeted player gets confused.   
+  confuse-message: "&cYou suddenly feel very woozy, maybe you should lie down..."
+  
+#This allows you to change the message that shows when the targeted player's nightvision gets toggled on.  
+  nightvision-on-message: "&aYou can suddenly see in the dark!"
+  
+#This allows you to change the message that shows when the targeted player's nightvision gets toggled off.   
+  nightvision-off-message: "&cYou can no longer see in the dark..."
+  
+#This allows you to change the message that shows after the chat has been cleared.   
+  clear-chat-message: "&8-----------------------[  &bChat Cleared!  &8]------------------------"
+  
+#This allows you to change the message that shows when the targetted player recieves a warning.   
+  warning-message: "&7&l[&c&l!&7&l] &4&lWarning &7&l[&c&l!&7&l] &7You have been caught breaking the server rules!"
+
+#This allows you to change the message that shows when the targeted player's slowness gets toggled on.  
+  slow-message: "&cYou suddenly lose all the power in your legs!"
+  
+#This allows you to change the message that shows when the targeted player's slowness gets toggled off.   
+  un-slow-message: "&aYou return back to normal speed!"
+
+#This allows you to change the message that shows to the targeted player when they are gifted an item.  
+  gift-message: "&dYou have been gifted an item, say thank you!"
+  
+#This allows you to change the message that shows when the targeted player recieves a God kit.   
+  god-kit-message: "&a&lYou recieve a powerful gift from the Gods!"
+  
+#This allows you to change the message that shows when the targeted player gets fake-crashed!   
+  fake-crash-error-message: "&cInternal exception: java.net.SocketTimeoutException: Read timed out"
+  
+#This allows you to change the message that shows when the targeted player's no-break is toggled on.  
+  no-break-on-message: "&cYou have been prevented from breaking/placing blocks!"
+  
+#This allows you to change the message that shows when the targeted player's no-break is toggled off.   
+  no-break-off-message: "&aYou can suddenly break and place blocks again!"
+  
+#This allows you to change the message that shows when the targeted player recieves a Firework Stick.
+  firework-cannon-recieve-message: "&aA &6Firework Cannon &ahas appeared in your inventory!"
+
+#This allows you to change the message that shows when the targeted player gets a Magic Wand!   
+  wand-recieve-message: "&dYou recieve a magic gift from the Wizards!"
+
+#This allows you to change the prefix that shows before the /bgod messages.  
+  bgod-message-prefix: '&f&lGod » &r'
+
+#This allows you to change the prefix that shows before the /spamchat messages. To have no preifx just set it as ''. 
+  spam-chat-prefix: '&7&l[&6&l!&7&l] &c&lSPAM &7&l[&6&l!&7&l]&r '
+
+#This allows you to change the prefix that shows before the /spamchat messages. To have no preifx just set it as ''. 
+  report-message-prefix: '&7&l/&c&lREPORT&7&l/&r '
+
+#This allows you to change the message that shows when a player's report message is sent successfully.   
+  report-sent-message: "&a&lReport sent. &7If you keep having issues, message an admin directly."
+# 
+#--------------------------------------------------------------------------------------------------
+#                                      ---  CAKE PARTY!  ---
+#--------------------------------------------------------------------------------------------------
+#This allows you to change the message that every online player recieves when you do the /cakeparty command.   
+  cake-party-message: "&a&lHave some Party Cake, on the house!"
+  
+#This allows you to change the name of the cake that every player gets during the /cakeparty!
+  cake-party-item-name: "&2P&9a&cr&at&5y &3C&ea&dk&6e&f!"
+#-------------------------------------------------------------------------------------------------- 
+#
+# If you have any problems, issues, or even suggestions of how add or improve this plugin, then feel
+# free to contact the plugin's developer on their SpigotMc page and send them a private message!
+#
+#----------------------######################---------------------------
+#                          Thank you for downloading !
+#----------------------######################---------------------------
+# 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
