@@ -12,6 +12,13 @@ plugins/TAB/
 plugins/EssentialsGeoIP/
 plugins/bStats/
 
+# Ignorar los mapas
+
+Spawn/
+world/
+world_nether/
+world_the_end/
+
 # Ignorar parámetros especiales
 
 ops.json
@@ -22,4 +29,5 @@ banned-ips.json
 banned-players.json
 bukkit.yml
 commands.yml
+server.properties
 
