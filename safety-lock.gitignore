@@ -11,6 +11,11 @@ plugins/LoginSecurity/
 plugins/TAB/
 plugins/EssentialsGeoIP/
 plugins/bStats/
+plugins/FreeRPG
+plugins/LuckPerms
+plugins/jobs
+plugins/PluginMetrics
+plugins/LockettePro
 
 # Ignorar los mapas
 
