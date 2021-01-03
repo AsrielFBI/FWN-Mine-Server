@@ -1,0 +1,17 @@
+# 
+# Name: CS-CoreLib
+# Author: A lot of awesome people
+# 
+# Do not modify the Config while the Server is running
+# otherwise bad things might happen!
+# 
+# This Plugin also requires CS-CoreLib to run!
+# If you don't have it installed already, its going to be
+# automatically installed for you
+# 
+# This Plugin utilises an Auto-Updater. If you want to turn that off,
+# simply set options -> auto-update to false
+options:
+  auto-update: false
+skulls:
+  uuid: 9ce794e1-2e3b-4eed-b19f-a0eb7c463cef
