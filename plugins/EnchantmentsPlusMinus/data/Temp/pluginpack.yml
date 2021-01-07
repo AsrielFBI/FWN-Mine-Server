@@ -1,0 +1,12 @@
+name: AutoUpdater
+version: 1.0
+author: whyisthisnecessary
+main: org.eps.autoupdater.AutoUpdate
+description: Auto Updater
+api-version: 1.13
+depend: [EnchantmentsPlusMinus]
+softdepend: [EnchantmentsPlusMinus]
+
+commands:
+    epsupdate:
+        description: Updates

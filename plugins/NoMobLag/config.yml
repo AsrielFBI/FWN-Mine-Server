@@ -1,0 +1,117 @@
+# For internal reference only, do not change the config version
+config-version: 4
+
+# Settings related to global mob spawning on the server
+mob-spawning:
+  # Chance to spawn mobs (percentage) at a specific TPS
+  spawn-chance-at-tps:
+    20: 100
+    19: 75
+    18: 50
+    17: 35
+    16: 25
+    15: 15
+    14: 10
+    13: 5
+    12: 3
+    11: 1
+    10: 0
+    9: 0
+    8: 0
+    7: 0
+    6: 0
+    5: 0
+    4: 0
+    3: 0
+    2: 0
+    1: 0
+    0: 0
+  # Mobs spawned from these SpawnReasons will be blocked based on "spawn-chance-at-tps"
+  # A full list of SpawnReasons can be found at https://hub.spigotmc.org/javadocs/spigot/org/bukkit/event/entity/CreatureSpawnEvent.SpawnReason.html
+  # It is recommended to use this default list as these spawn reasons are usually the performance-heavy ones
+  spawnreason-tps-block:
+    - BREEDING
+    - CUSTOM
+    - DEFAULT
+    - DROWNED
+    - EGG
+    - NATURAL
+    - NETHER_PORTAL
+    - PATROL
+    - RAID
+    - REINFORCEMENTS
+    - SPAWNER
+    - VILLAGE_DEFENSE
+    - VILLAGE_INVASION
+
+# Additional settings to COMPLETELY block certain mob-spawn mechanisms which are extremely bad for server performance
+spawn-treshold:
+  # These settings will only be applied if TPS falls below this value
+  # If you want these settings to be applied all the time, set it to 20
+  tps-treshold: 18
+  # Completely stop mob breeding from taking place when TPS is low
+  disable-breeding: true
+  # Completely stop pillager raids from occuring when TPS is low
+  disable-raiding: true
+  # Settings to block farms which spawn large numbers of mobs when TPS is low
+  farms:
+    # Block mob spawner farms completely
+    # Usually only applicable to servers which allow spawner mining and relocation through plugins like SilkSpawners
+    block-spawner-farm: true
+    # Block farms which utilise the nether portal spawn-mechanic to transport large numbers of pigmen or drowned between dimensions
+    block-portal-farm: true
+    # Block the pigman-reinforcement mechanic to quickly farm for additional pigmen
+    block-pigman-farm: true
+    # Block large end farms which use endermite to aggro endermen to fall into a farming pit
+    block-enderman-farm: true
+
+# Settings relating to mob spawners
+spawners:
+  # Minimum distance between mob spawners
+  # This setting only apply to newly-placed spawners after NoMobLag is installed
+  # Setting this to a large value may cause lag when spawners are placed as the plugin has to scan a large area for existing spawners
+  minimum-spawner-distance: 6
+  # Maximum distance a player can be away from the spawner for it to be activated
+  activation-range: 8
+  # Maximum number of mobs a spawner can spawn every minute
+  max-mobs-per-minute: 10
+  # Time in seconds before mobs spawned from mob spawners despawn
+  # Set this as -1 to disable automatic despawning
+  mob-despawn-rate: 30
+
+# Settings related to entity interaction and collision
+# These settings only apply to newly-spawned mobs after NoMobLag is installed
+mob-collisions:
+  # Whether or not mob collisions should be completely disabled
+  # Enabling this improves server performance by skipping unnecessary calculations in crammed mob farms
+  disable-mob-collision: true
+  # The following mobs in the list will have collision physics no matter what
+  # A full list of EntityTypes can be found at https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/EntityType.html
+  force-collision-mobs:
+    - VILLAGER
+
+# Settings relating to mob-freezing
+# Frozen mobs will have no AI and will not be able to move or interact until unfrozen
+# This immensely reduces load on the server as mob pathfinding can be expensive to calculate by the server
+mob-freezing:
+  # Whether or not to enable mob-freezing (disable AI)
+  # Setting this to false will disable this entire part of the config
+  enable-freezing: true
+  # Freeze a mob after it has been spawned for x seconds
+  # It is best to keep this value nonzero to prevent normal mob farms from breaking completely
+  # Set this as -1 to disable automatic freezing
+  disable-ai-after: 60
+  # Whether or not mobs should be unfrozen when damaged or interacted upon
+  # It is highly recommended to keep this true to prevent many vanilla features from breaking
+  enable-ai-on-interact: true
+  # Whether or not mobs should be unfrozen temporarily until "disable-ai-after" seconds when a chunk is loaded again
+  # It is also strongly advisable to keep this true to make mobs look more "normal" in freshly loaded chunks
+  enable-ai-on-chunk-load: true
+  # The following mobs in the list will not be frozen no matter what
+  # A full list of EntityTypes can be found at https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/EntityType.html
+  freeze-bypass-mobs:
+    - ENDER_DRAGON
+    - WITHER
+    - ELDER_GUARDIAN
+
+

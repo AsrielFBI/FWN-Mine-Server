@@ -1,0 +1,146 @@
+#default placeholders:
+#[username] - player doing the thing, using username
+#[displayname] - player doing the thing, using displayname
+#[world] - world the player is in, minus the dimension substring
+#[dimension] - dimension the player is in
+
+#useful PAPI placeholders:
+#   %player_name% 
+#   %player_displayname%
+#   %player_world_time_12%
+#   %player_world_time_24%
+#   %player_bed_x%
+#   %player_bed_y%
+#   %player_bed_z%
+#   %RainbowColor_<Text>%
+#   %server_time_<SimpleDateFormat>%
+#   %sound_<sound>-<volume>-<pitch>%
+#   
+#   %OnePlayerSleep_sleeping_player_count%
+#   %OnePlayerSleep_total_player_count%
+#
+#   %vault_prefix% (requires vault)
+
+onNoPlayersSleeping: "&eNo players sleeping!"
+
+cooldownMessage: "&eYou can't sleep again yet"
+
+badArgs: "&cinvalid sleep command arguments"
+
+
+
+#world placeholders
+worlds:
+    world: "&aworld"
+
+#dimension placeholders
+dimensions:
+    NORMAL: "&f[&aoverworld&f]"
+    NETHER: "&f[&cnether&f]"
+    THE_END: "&f[&bend&f]"
+
+#Messages to announce on sleep
+#message001: arbitrary unique message name
+#    global: thing to say in global chat on player sleep.           
+#               ^Sleeper
+#    hover: hover text.
+#               ^Sleeper
+#    wakeup: thing to say in global chat on wakeup click
+#               ^player calling wakeup.
+#    cantWakeup: message to send if someone had sleep.bypass
+#               ^player calling wakeup
+#    chance: floating point chance to use this message, out of the sum of all chances
+messages:
+    message001:
+        global: "[username] &bfell asleep on the job"
+        hover: "&eWake up!"
+        wakeup: "[username] says &cGet back to work!"
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+    message002:
+        global: "[username] &bis slacking"
+        hover: "&eWake up!"
+        wakeup: "[username] says &cWake up!" 
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+    message003:
+        global: "[username] &bis asleep at the wheel"
+        hover: "&eWake up!"
+        wakeup: "[username] says &4WHO'S DRIVING!?" 
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+    message004:
+        global: "[username] &bcrashed...hard..."
+        hover: "&eWake up!"
+        wakeup: "[username] says &chave some caffeine!" 
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+    message005:
+        global: "[username] &bis counting sheep"
+        hover: "&eWake up!"
+        wakeup: "[username] says &cWake up!" 
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+    message006:
+        global: "[username] &bis sawing logs"
+        hover: "&eWake up!"
+        wakeup: "[username] says &cWake up!" 
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+    message007:
+        global: "[username] &bis cat napping"
+        hover: "&eWake up!"
+        wakeup: "[username] says &cdogs are better!" 
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+    message008:
+        global: "[username] &bhas hit the hay"
+        hover: "&eWake up!"
+        wakeup: "[username] says &cWake up!" 
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+    message009:
+        global: "[username] &bnodded off"
+        hover: "&eWake up!"
+        wakeup: "[username] &esmacks desk" 
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+    message010:
+        global: "[username] &bneeds a beauty rest"
+        hover: "&eWake up!"
+        wakeup: "[username] says &cyou're handsome enough already!" 
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+    message011:
+        global: "[username] &bkeeps hitting snooze..."
+        hover: "&eWake up!"
+        wakeup: "[username] &cpulled the sheets!" 
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+    message012:
+        global: "[username] &bis enjoying peaceful slumber"
+        hover: "&eWake up!"
+        wakeup: "[username] says &cWake up!" 
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+    message013:
+        global: "[username] &bis catching Z's"
+        hover: "&eWake up!"
+        wakeup: "[username] says &cWake up!" 
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+    message014:
+        global: "[username] &bdozed off"
+        hover: "&eWake up!"
+        wakeup: "[username] says &cWake up!" 
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+    message015:
+        global: "[username] &bis sleeping"
+        hover: "&eWake up!"
+        wakeup: "[username] says &cWake up!" 
+        cantWakeup: "&csomeone's a deep sleeper"
+        chance: 0.067
+
+#DO NOT TOUCH VERSION NUMBER
+version: 1.5

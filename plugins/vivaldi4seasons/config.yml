@@ -1,0 +1,16 @@
+monthlength: 5
+flowers: 100
+shrooms: 100
+snow: 100
+berries: 100
+fire: 100
+ice: 100
+genradius: 8
+gentick: 300
+disableWorlds:
+- exampleworld
+- anotherdisabledworld
+season: ' spring'
+day: 423
+dayOfSeason: 3
+stopSnow: 0

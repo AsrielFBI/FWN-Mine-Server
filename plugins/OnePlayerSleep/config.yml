@@ -1,0 +1,35 @@
+#time, in ticks, to delay the task of passing of night
+# if night is not passed, weather is cleared after 2x this amount
+sleepDelay: 60
+
+#server time to allow passing night
+startTime: 12010
+stopTime: 23992
+
+#amount of time to increment by, per server tick
+increment: 75
+
+#cooldown, in ms, to prevent spam
+sleepCooldown: 2000
+
+#whether to fully kick a player from a bed on wakeup call
+kickFromBed: true
+
+#whether to randomize the message for every player 
+#   instead of distributing 1 random message
+randomPerPlayer: false
+
+#whether to reset the TIME_SINCE_REST statistic for every player on sleep task
+resetAllStatistics: true
+
+#option to sync all worlds on sleep task
+#   the plugin will send the announcement to all players in the same dimension
+#   and allow players to cancel sleep for all worlds in the same dimension
+doOtherWorlds: false
+
+#option to show messages to players in worlds containing the same name
+#   namely sharing messages in world with players in world_nether and world_the_end
+doOtherDimensions: false
+
+#DO NOT TOUCH VERSION NUMBER
+version: 1.4
