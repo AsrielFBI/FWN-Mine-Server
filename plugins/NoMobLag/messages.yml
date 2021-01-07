@@ -1,4 +1,0 @@
-# For internal reference only, do not change the messages version
-messages-version: 1
-spawners-too-close: '&cThis spawner must be at least &4%min_spawner_distance% &cblocks
-  away from another spawner'
