@@ -76,7 +76,7 @@ teleport-safety: true
 
 # This forcefully disables teleport safety checks without a warning if attempting to teleport to unsafe locations.
 # teleport-safety and this option need to be set to true to force teleportation to dangerous locations.
-force-disable-teleport-safety: false
+force-disable-teleport-safety: true
 
 # If a player is teleporting to an unsafe location in creative, adventure, or god mode; they will not be teleported to a
 # safe location. If you'd like players to be teleported to a safe location all of the time, set this option to true.
@@ -95,7 +95,7 @@ teleport-delay: 0
 
 # The delay, in seconds, a player can't be attacked by other players after they have been teleported by a command.
 # This will also prevent the player attacking other players.
-teleport-invulnerability: 4
+teleport-invulnerability: 0
 
 # Whether to make all teleportations go to the center of the block; where the x and z coordinates decimal become .5
 teleport-to-center: true
@@ -133,10 +133,10 @@ item-spawn-blacklist:
 permission-based-item-spawn: false
 
 # Mob limit on the /spawnmob command per execution.
-spawnmob-limit: 10
+spawnmob-limit: 100
 
 # Shall we notify users when using /lightning?
-warn-on-smite: true
+warn-on-smite: false
 
 # Shall we drop items instead of adding to inventory if the target inventory is full?
 drop-items-if-full: false
@@ -361,7 +361,7 @@ sign-use-per-second: 4
 # Allow item IDs on pre-existing signs on 1.13 and above.
 # You cannot use item IDs on new signs, but this will allow players to interact with signs that
 # were placed before 1.13.
-allow-old-id-signs: false
+allow-old-id-signs: true
 
 # List of sign names Essentials should not protect. This feature is especially useful when
 # another plugin provides a sign that EssentialsX provides, but Essentials overrides.
@@ -417,7 +417,7 @@ debug: false
 #locale: en
 
 # Turn off god mode when people leave the server.
-remove-god-on-disconnect: false
+remove-god-on-disconnect: true
 
 # Auto-AFK
 # After this timeout in seconds, the user will be set as AFK.
@@ -481,7 +481,7 @@ vanishing-items-policy: keep
 binding-items-policy: keep
 
 # When players die, should they receive the coordinates they died at?
-send-info-after-death: false
+send-info-after-death: true
 
 # Should players with permissions be able to join and part silently?
 # You can control this with essentials.silentjoin and essentials.silentquit permissions if it is enabled.
@@ -643,7 +643,7 @@ safe-usermap-names: true
 log-command-block-commands: true
 
 # Set the maximum speed for projectiles spawned with /fireball.
-max-projectile-speed: 8
+max-projectile-speed: 50
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -668,9 +668,9 @@ world-home-permissions: false
 # Create the 'home-rank' below, and give the matching permission: essentials.sethome.multiple.<home-rank>
 # For more information, visit http://wiki.ess3.net/wiki/Multihome
 sethome-multiple:
-  default: 3
-  vip: 5
-  staff: 10
+  default: 30
+  vip: 50
+  staff: 100
 
 # In this example someone with 'essentials.sethome.multiple' and 'essentials.sethome.multiple.vip' will have 5 homes.
 # Remember, they MUST have both permission nodes in order to be able to set multiple homes.
@@ -700,7 +700,7 @@ confirm-home-overwrite: false
 # You can control the values of items that are sold to the server by using the /setworth command.
 
 # Defines the balance with which new players begin. Defaults to 0.
-starting-balance: 0
+starting-balance: 150
 
 # Defines the cost to use the given commands PER USE.
 # Some commands like /repair have sub-costs, check the wiki for more information.
@@ -713,7 +713,7 @@ command-costs:
 # Set this to a currency symbol you want to use.
 # Remember, if you want to use special characters in this document, 
 # such as accented letters, you MUST save the file as UTF-8, not ANSI.
-currency-symbol: '$'
+currency-symbol: '€'
 
 # Enable this to make the currency symbol appear at the end of the amount rather than at the start.
 # For example, the euro symbol typically appears after the current amount.
@@ -735,7 +735,7 @@ economy-log-enabled: false
 economy-log-update-enabled: false
 
 # Minimum acceptable amount to be used in /pay.
-minimum-pay-amount: 0.001
+minimum-pay-amount: 1
 
 # Enable this to block users who try to /pay another user which ignore them.
 pay-excludes-ignore-list: false
@@ -827,25 +827,25 @@ protect:
     flint-fire: false
     lightning-fire-spread: true
     portal-creation: false
-    tnt-explosion: false
+    tnt-explosion: true
     tnt-playerdamage: false
-    tnt-itemdamage: false
-    tnt-minecart-explosion: false
+    tnt-itemdamage: true
+    tnt-minecart-explosion: true
     tnt-minecart-playerdamage: false
-    tnt-minecart-itemdamage: false
+    tnt-minecart-itemdamage: true
     fireball-explosion: false
     fireball-fire: false
     fireball-playerdamage: false
-    fireball-itemdamage: false
-    witherskull-explosion: false
+    fireball-itemdamage: true
+    witherskull-explosion: true
     witherskull-playerdamage: false
     witherskull-itemdamage: false
-    wither-spawnexplosion: false
+    wither-spawnexplosion: true
     wither-blockreplace: false
-    creeper-explosion: false
+    creeper-explosion: true
     creeper-playerdamage: false
     creeper-itemdamage: false
-    creeper-blockdamage: false
+    creeper-blockdamage: true
     ender-crystal-explosion: false
     enderdragon-blockdamage: true
     enderman-pickup: false
@@ -904,7 +904,7 @@ protect:
       ocelot: false
       iron_golem: false
       villager: false
-      wither: false
+      wither: true
       bat: false
       witch: false
       horse: false
@@ -926,8 +926,8 @@ protect:
 
     # Should drowning damage be disabled?
     # (Split into two behaviors; generally, you want both set to the same value.)
-    drown: false
-    suffocate: false
+    drown: true
+    suffocate: true
 
     # Should damage via lava be disabled?  Items that fall into lava will still burn to a crisp. ;)
     lavadmg: false
