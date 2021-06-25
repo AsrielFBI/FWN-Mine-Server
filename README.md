@@ -41,4 +41,3 @@ fi
 ```
 
 > Directorio de archivos --> `/var/lib/docker/volumes/MineJenkins/_data/worlkspaces/mineserv`
-
